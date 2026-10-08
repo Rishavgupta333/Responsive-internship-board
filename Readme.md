@@ -7,7 +7,9 @@ An accessible internship listing interface that works on mobile, tablet and desk
 
 | Mobile | Tablet | Desktop |
 |---|---|---|
-| ![Mobile view](screenshots/mobile.png) |  ![Desktop view] desktopview.png |
+| ![Mobile view](screenshots/mobile.png) |  ## Screenshots
+
+![Desktop view](desktopview.png)
 
 ## Features
 
